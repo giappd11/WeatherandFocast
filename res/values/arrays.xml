@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "location">
+        <item >London,UK</item>
+		<item >Los Angeles, CA</item>
+		<item >Ha Dong, Ha noi</item> 
+    </string-array>
+    <string-array name="items">
+        <item>List Location</item>
+        <item>Setting</item>
+        <item>About</item>
+        <item >Achart focast 3 hour</item>
+    </string-array>
+    
+    <string-array name="seting">
+        <item>Number day Focast</item>
+        <item>Add City</item> 
+    </string-array>
+     
+</resources>
