@@ -24,7 +24,7 @@ import android.widget.Toast;
 
 import com.survivingwithandroid.weatherapp.othercity.ListCity;
 
-public class Setting extends Activity { 
+public class Setting extends Activity {
 	/* menu */
 	private String[] drawerListViewItems;
 	private DrawerLayout drawerLayout;
